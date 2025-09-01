@@ -1,0 +1,10 @@
+# Core
+pandas>=2.0.0
+requests>=2.31.0
+matplotlib>=3.7.0
+
+# CrewAI stack (optional to run flow agents)
+crewai>=0.66.0
+crewai-tools>=0.24.0
+litellm>=1.48.0
+python-dotenv>=1.0.1
